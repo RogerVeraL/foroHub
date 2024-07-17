@@ -12,3 +12,7 @@ La API desarrollada permitirá a los usuarios realizar las siguientes acciones:
 - Actualizar un tópico: Los usuarios pueden modificar el contenido de un tópico existente.
 - Eliminar un tópico: Los usuarios pueden borrar tópicos que ya no sean relevantes o necesarios.
 
+## Diagrama Base de datos
+
+![Texto alternativo](https://github.com/RogerVeraL/foroHub/blob/main/diagrama_base_de_datos_forohub.png)
+
